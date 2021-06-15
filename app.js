@@ -1,1 +1,2 @@
-Hola desde visualCode
+Hola desde origin.
+despues del conflicto
